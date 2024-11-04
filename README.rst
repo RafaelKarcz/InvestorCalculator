@@ -61,7 +61,7 @@ To run InvestorCalculator, you need the following installed:
 
    .. code-block:: bash
 
-      git clone https://github.com/username/InvestorCalculator.git
+      git clone https://github.com/RafaelKarcz/InvestorCalculator.git
 
 2. **Creating a Python Virtual Environment:**
 
